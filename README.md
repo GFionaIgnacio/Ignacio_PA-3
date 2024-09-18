@@ -3,7 +3,7 @@
 
 ##### You can find a code preview below, and a Jupyter notebook is also available in the files section for further exploration.
 
-### Problem 1: 
+## Problem 1: 
 ### Overview:
 ###### This programming assignment focuses on working with the Cars Dataset using the pandas library in Python. The task involves loading a CSV file, manipulating the data, and extracting specific rows and columns as outlined in the problem.
 ### What to do?
@@ -29,7 +29,7 @@ pd.concat([cars.head(), cars.tail()])
 ### Sample Output: 
 <img width="599" alt="Screenshot 2024-09-19 at 2 45 58 AM" src="https://github.com/user-attachments/assets/448fe393-cf63-4727-bc98-df1c662a1975">
 
-### Problem 2: 
+## Problem 2: 
 ### Overview: 
 ###### This problem builds on the Cars Dataset introduced in Problem 1. It involves data extraction from Pandas by using subsetting, slicing, and indexing. 
 ### What to do? 
